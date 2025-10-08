@@ -1,0 +1,506 @@
+[
+  {
+    "id": 1,
+    "title": "Clash of Clans",
+    "companyName": "Supercell",
+    "image": "https://i.ibb.co.com/4RD2NmVJ/classofclan.png",
+    "description": "Clash of Clans is a legendary mobile strategy game developed by Supercell, where players build their own village, train powerful troops, and battle against millions of players worldwide! You can join or create clans, participate in epic wars, and upgrade your defenses to protect your base from enemy attacks. With regular updates, events, and challenges, Clash of Clans continues to be one of the most engaging and addictive strategy games ever created. Build, defend, and conquer your way to glory! 🏰⚔️",
+    "size": 283,
+    "reviews": 54120000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 320000 },
+      { "name": "2 star", "count": 480000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 4100000 },
+      { "name": "5 star", "count": 48200000 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "PUBG Mobile",
+    "companyName": "Tencent Games",
+    "image": "https://i.ibb.co.com/W43TRmny/pubg.png",
+    "description": "PUBG Mobile is one of the most thrilling and realistic battle royale games ever made. Drop onto an island with 100 players, loot weapons, vehicles, and supplies, and fight your way to be the last one standing. Experience stunning graphics, smooth gameplay, and intense action in every match. Whether you play solo, duo, or squad mode — teamwork, quick reflexes, and smart strategies are the keys to victory. Join millions of players around the world and prove your survival skills in the battleground! 🪖💥",
+    "size": 710,
+    "reviews": 46800000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 720000 },
+      { "name": "2 star", "count": 1020000 },
+      { "name": "3 star", "count": 2800000 },
+      { "name": "4 star", "count": 7400000 },
+      { "name": "5 star", "count": 34800000 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Candy Crush Saga",
+    "companyName": "King",
+    "image": "https://i.ibb.co.com/zTGdXDSk/candy.jpg",
+    "description": "Candy Crush Saga is a popular puzzle video game where players swap adjacent candies to create lines of three or more matching candies, which then disappear and are replaced by new ones. Players progress through thousands of levels by completing specific objectives, such as clearing jelly, collecting ingredients, or achieving a target score within a limited number of moves. The game features special candies that clear larger areas, boosters to overcome difficult puzzles, and a daily rewards system to keep players engaged with its vibrant, candy-themed visuals and challenging gameplay. ",
+    "size": 190,
+    "reviews": 33000000,
+    "ratingAvg": 4.7,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 230000 },
+      { "name": "2 star", "count": 320000 },
+      { "name": "3 star", "count": 810000 },
+      { "name": "4 star", "count": 2900000 },
+      { "name": "5 star", "count": 28900000 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Subway Surfers",
+    "companyName": "SYBO Games",
+    "image": "https://i.ibb.co.com/dsd08YMB/Subway.jpg",
+    "description": "Subway Surfers is one of the most popular endless running games in the world. Join Jake, Tricky, and Fresh as they dash through subway tracks to escape from the grumpy inspector and his dog! Swipe to jump, roll, and dodge trains while collecting coins and power-ups. Explore vibrant cities, unlock new characters, and upgrade your hoverboards for the ultimate speed boost. With colorful graphics, smooth controls, and endless fun, Subway Surfers is the perfect game for players of all ages. Keep running, keep surfing, and never stop the chase! 🏃‍♂️⚡",
+    "size": 180,
+    "reviews": 34100000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 380000 },
+      { "name": "2 star", "count": 440000 },
+      { "name": "3 star", "count": 950000 },
+      { "name": "4 star", "count": 3900000 },
+      { "name": "5 star", "count": 28900000 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Free Fire MAX",
+    "companyName": "Garena",
+    "image": "https://i.ibb.co.com/dwJXzHzx/Free-Fire-MAX.png",
+    "description": "Free Fire MAX is an upgraded version of the popular battle royale game Free Fire, offering high-definition graphics, smoother gameplay, and an immersive survival experience. Drop onto a remote island with 49 other players, search for weapons and supplies, and fight to be the last one standing! The MAX version delivers enhanced visuals, realistic effects, and ultra-fast performance. Team up with your friends, use strategy, and show your shooting skills to claim victory in every match! 💣⚔️",
+    "size": 670,
+    "reviews": 40100000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 880000 },
+      { "name": "2 star", "count": 1100000 },
+      { "name": "3 star", "count": 2900000 },
+      { "name": "4 star", "count": 7200000 },
+      { "name": "5 star", "count": 29000000 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Call of Duty Mobile",
+    "companyName": "Activision",
+    "image": "https://i.ibb.co.com/DHfYLxWp/Call-of-Duty-Mobile.webp",
+    "description": "Call of Duty: Mobile brings the iconic FPS experience of the legendary Call of Duty franchise right to your phone. Engage in high-intensity multiplayer battles, including classic modes like Team Deathmatch, Domination, and Search & Destroy. Play across famous maps such as Nuketown, Hijacked, and Firing Range. Experience console-quality graphics, realistic sound, and smooth controls. Whether you’re a solo sniper or a squad leader, COD Mobile offers fast-paced action, strategic gameplay, and thrilling battle royale modes. Prepare, aim, and dominate the battlefield! 💥",
+    "size": 920,
+    "reviews": 28400000,
+    "ratingAvg": 4.2,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 450000 },
+      { "name": "2 star", "count": 690000 },
+      { "name": "3 star", "count": 2100000 },
+      { "name": "4 star", "count": 7200000 },
+      { "name": "5 star", "count": 18400000 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Minecraft",
+    "companyName": "Mojang",
+    "image": "https://i.ibb.co.com/wnqK03t/Minecraft.webp",
+    "description": "Minecraft is one of the most creative and popular sandbox games in the world. It lets you build, explore, and survive in an open blocky world made entirely of cubes! You can gather resources, craft tools, and create anything you imagine — from simple houses to massive castles. Play in Survival Mode to face monsters and gather supplies, or switch to Creative Mode for unlimited building freedom. With regular updates, multiplayer servers, and infinite worlds, Minecraft continues to inspire players of all ages to unleash their creativity and imagination. 🌈🏗️",
+    "size": 600,
+    "reviews": 58200000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 320000 },
+      { "name": "2 star", "count": 450000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 5400000 },
+      { "name": "5 star", "count": 51500000 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Genshin Impact",
+    "companyName": "HoYoverse",
+    "image": "https://i.ibb.co.com/xq7Y2tBC/Genshin-Impact.jpg",
+    "description": "Genshin Impact is an open-world action RPG developed by HoYoverse, where players explore the stunning world of Teyvat filled with magic, mysteries, and adventure. You can switch between multiple characters, each with unique elemental abilities like Pyro, Hydro, Electro, and Anemo. Engage in thrilling battles, solve puzzles, and uncover the hidden secrets of this vast land. Whether you play solo or with friends in co-op mode, Genshin Impact offers breathtaking visuals, immersive storytelling, and endless exploration. Embark on your journey as the Traveler and discover your destiny! 🌟",
+    "size": 4300,
+    "reviews": 29400000,
+    "ratingAvg": 4.5,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 370000 },
+      { "name": "2 star", "count": 520000 },
+      { "name": "3 star", "count": 1400000 },
+      { "name": "4 star", "count": 5400000 },
+      { "name": "5 star", "count": 22200000 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Asphalt 9: Legends",
+    "companyName": "Gameloft",
+    "image": "https://i.ibb.co.com/KPBcKzD/Asphalt.jpg",
+    "description": "Asphalt 9: Legends is one of the most dynamic and visually stunning racing games ever created by Gameloft. Choose from a collection of the world’s most prestigious cars like Ferrari, Lamborghini, Porsche, and Bugatti. Race across breathtaking real-world locations, perform mind-blowing stunts, and drift your way to victory! With intense multiplayer action, smooth controls, and stunning HD graphics, Asphalt 9 delivers a console-quality racing experience right on your mobile. Compete, upgrade, and become a legend on the track! 🏁",
+    "size": 2200,
+    "reviews": 14200000,
+    "ratingAvg": 4.5,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 140000 },
+      { "name": "2 star", "count": 290000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2800000 },
+      { "name": "5 star", "count": 10800000 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Among Us",
+    "companyName": "Innersloth LLC",
+    "image": "https://i.ibb.co.com/hxqN5WXp/Among-Us.jpg",
+    "description": "Among Us is a fun and thrilling multiplayer party game developed by Innersloth. Set aboard a spaceship, a group of Crewmates must complete tasks to keep the ship running — but beware! One or more Impostors are secretly trying to sabotage and eliminate everyone. Work together, discuss, and vote wisely to find the Impostor before it’s too late! With simple gameplay, cross-platform support, and hilarious moments, Among Us is perfect for friends, families, and streamers alike. Trust no one… or everyone! 👀💫",
+    "size": 120,
+    "reviews": 19000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 340000 },
+      { "name": "2 star", "count": 420000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 3600000 },
+      { "name": "5 star", "count": 14200000 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Temple Run 2",
+    "companyName": "Imangi Studios",
+    "image": "https://i.ibb.co.com/v679PNZ9/temple-run-2-banner.jpg",
+    "description": "Temple Run 2 is the thrilling endless running game developed by Imangi Studios. Run, jump, slide, and swing your way through dangerous cliffs, zip lines, mines, and forests as you try to escape with the cursed idol! With improved graphics, smoother controls, and exciting new power-ups, Temple Run 2 takes the adventure to the next level. Avoid obstacles, collect coins, and see how far you can run before getting caught. It’s fast, fun, and incredibly addictive — how far can YOU go? ⚡",
+    "size": 110,
+    "reviews": 24000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 280000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2900000 },
+      { "name": "5 star", "count": 19500000 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "8 Ball Pool",
+    "companyName": "Miniclip",
+    "image": "https://i.ibb.co.com/DDDSfWcr/8-Ball-Pool.jpg",
+    "description": "8 Ball Pool by Miniclip is the world’s most popular online billiards game that lets you challenge friends or compete with players from all around the globe. Practice your skills in the training mode, then enter real matches to win coins and exclusive cues. Play 1-on-1 games, take part in tournaments, and climb the global leaderboard to become the ultimate pool champion! With realistic physics, smooth gameplay, and fun challenges, 8 Ball Pool brings the thrill of the pool hall right to your fingertips. 🎱💫",
+    "size": 180,
+    "reviews": 38000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 350000 },
+      { "name": "2 star", "count": 480000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 5200000 },
+      { "name": "5 star", "count": 30500000 }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Ludo King",
+    "companyName": "Gametion",
+    "image": "https://i.ibb.co.com/MDrwMkKF/Ludo-King.png",
+    "description": "Ludo King is the classic board game reimagined for the digital era! Developed by Gametion, it lets you relive the nostalgic fun of playing Ludo with your friends and family — anytime, anywhere. Roll the dice, move your tokens, and race to get all four pieces home before your opponents. Play online or offline, in local multiplayer or against global players. With colorful themes, voice chat, and live reactions, Ludo King keeps the fun going for everyone. Whether you’re playing casually or competitively, the King of board games is here to entertain you! 🎯",
+    "size": 90,
+    "reviews": 52000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 430000 },
+      { "name": "2 star", "count": 620000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 6400000 },
+      { "name": "5 star", "count": 43000000 }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Angry Birds 2",
+    "companyName": "Rovio",
+    "image": "https://i.ibb.co.com/QZgQ2Jg/Angry-Birds-2.jpg",
+    "description": "Angry Birds 2 is the official sequel to the legendary Angry Birds game by Rovio Entertainment. Get ready to fling your favorite birds with powerful slingshots and destroy the mischievous pigs once again! Featuring stunning graphics, multi-stage levels, and special powers for each bird, Angry Birds 2 brings a fresh twist to the classic gameplay. Build your team, plan your shots strategically, and compete with players worldwide. With daily challenges, clans, and new events, the fun never stops. It’s time to unleash the birds and save their precious eggs! 🥚💣",
+    "size": 220,
+    "reviews": 21000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 310000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 3300000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "BGMI",
+    "companyName": "Krafton",
+    "image": "https://i.ibb.co.com/kgt72Ljk/Battleground-Mobile-India.webp",
+    "description": "Battlegrounds Mobile India (BGMI) is a battle royale game developed by Krafton exclusively for Indian players. Drop onto a vast map with your squad, collect weapons, vehicles, and supplies, and fight your way to be the last one standing. With high-quality graphics, realistic gameplay, and smooth controls, BGMI brings console-level action straight to your mobile. Team up with friends, use tactics, and dominate the battleground. Whether it’s Classic Mode, TDM, or special events — every match is a new challenge. Play, survive, and claim your Chicken Dinner! 🍗🏆",
+    "size": 760,
+    "reviews": 22000000,
+    "ratingAvg": 4.3,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 350000 },
+      { "name": "2 star", "count": 480000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 4800000 },
+      { "name": "5 star", "count": 15000000 }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Fortnite",
+    "companyName": "Epic Games",
+    "image": "https://i.ibb.co.com/FkxjwkTv/Fortnite.jpg",
+    "description": "Fortnite by Epic Games is one of the world’s most popular battle royale and creative games, combining fast-paced combat with incredible building mechanics. Drop onto an island, collect weapons and resources, and fight to be the last one standing! You can build structures for defense, explore new maps, and participate in exciting events and crossovers featuring your favorite heroes. With vibrant graphics, regular updates, and endless creative possibilities, Fortnite is more than just a game — it’s an ever-evolving universe where imagination meets action! 🌈💣",
+    "size": 9000,
+    "reviews": 61000000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 1400000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 52000000 }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Clash Royale",
+    "companyName": "Supercell",
+    "image": "https://i.ibb.co.com/xqSz0Dw5/Clash-Royale.png",
+    "description": "Clash Royale, developed by Supercell, is a fast-paced real-time strategy game where you collect and upgrade cards featuring your favorite Clash of Clans troops, spells, and defenses. Build your deck, enter the arena, and battle players from around the world in thrilling 1v1 and 2v2 matches. Destroy enemy towers, win trophies, and climb the leaderboard! With live PvP battles, clan wars, and regular updates, Clash Royale combines strategy, timing, and skill for an unforgettable competitive experience. Prepare your troops and rule the arena! 🏰⚔️",
+    "size": 480,
+    "reviews": 35000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 320000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 28900000 }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Pokemon GO",
+    "companyName": "Niantic",
+    "image": "https://i.ibb.co.com/jkFhW9Y2/Pokemon-GO.jpg",
+    "description": "Pokémon GO by Niantic is a groundbreaking augmented reality (AR) mobile game that lets you explore the real world to catch your favorite Pokémon! Walk around your neighborhood, visit PokéStops, and take part in epic Gym Battles and Raid Battles. The game blends outdoor adventure with Pokémon hunting — making every walk an exciting mission. Collect, train, and evolve Pokémon to complete your Pokédex. Whether you’re playing solo or teaming up with friends, Pokémon GO brings the world of Pokémon right into your hands! 🌍🎮",
+    "size": 320,
+    "reviews": 97000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 890000 },
+      { "name": "2 star", "count": 1020000 },
+      { "name": "3 star", "count": 1900000 },
+      { "name": "4 star", "count": 6400000 },
+      { "name": "5 star", "count": 87000000 }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Mobile Legends: Bang Bang",
+    "companyName": "Moonton",
+    "image": "https://i.ibb.co.com/WpjjXkCm/Mobile-Legends.webp",
+    "description": "Mobile Legends: Bang Bang is one of the most popular 5v5 multiplayer online battle arena (MOBA) games developed by Moonton. Choose from dozens of unique heroes — each with distinct abilities — and team up with players worldwide for intense real-time battles. Work with your teammates, destroy enemy towers, and claim victory in classic 10-minute matches! With stunning graphics, smooth controls, and strategic gameplay, MLBB delivers an epic mobile esports experience. Show your skills, build your strategy, and become the legend of the battlefield! 🛡️",
+    "size": 610,
+    "reviews": 69000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 620000 },
+      { "name": "2 star", "count": 890000 },
+      { "name": "3 star", "count": 1800000 },
+      { "name": "4 star", "count": 7200000 },
+      { "name": "5 star", "count": 59500000 }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Roblox",
+    "companyName": "Roblox Corporation",
+    "image": "https://i.ibb.co.com/KxKXv4wq/Roblox.jpg",
+    "description": "Roblox is a global online platform where millions of players come together to create, share, and play games made by the community. Dive into endless worlds — from action-packed adventures and racing games to simulators and role-playing experiences. You can customize your avatar, build your own games with Roblox Studio, and connect with friends across the globe. With constant updates and limitless creativity, Roblox is not just a game — it’s a universe of imagination! 🚀🎮",
+    "size": 300,
+    "reviews": 125000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 1200000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 8700000 },
+      { "name": "5 star", "count": 113000000 }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Real Racing 3",
+    "companyName": "EA Sports",
+    "image": "https://i.ibb.co.com/HfjZCkbY/Real-Racing-3.jpg",
+    "description": "Real Racing 3 by Electronic Arts (EA) is one of the most authentic and visually stunning racing games on mobile. Featuring officially licensed cars from Ferrari, Porsche, Bugatti, Lamborghini, and more, the game offers real tracks, real people, and real motorsport action. Race against players worldwide in intense multiplayer events, complete time trials, and experience realistic car physics and damage effects. With over 40 circuits, multiple modes, and next-level graphics, Real Racing 3 gives you the true feeling of being behind the wheel of a supercar! 🏎️🔥",
+    "size": 2000,
+    "reviews": 31000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 430000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2700000 },
+      { "name": "5 star", "count": 26600000 }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "FIFA Mobile",
+    "companyName": "EA Sports",
+    "image": "https://i.ibb.co.com/1fzTC3Ht/FIFA-Mobile.jpg",
+    "description": "FIFA Mobile by EA Sports brings the authentic football experience to your mobile device. Build your dream team with thousands of real players and clubs from top leagues around the world, including the Premier League, La Liga, Bundesliga, Serie A, and more. Play in real-time PvP matches, participate in tournaments, and relive iconic moments in football history. With realistic graphics, smooth gameplay, and regular updates, FIFA Mobile offers the ultimate football experience for every fan. Score goals, make plays, and rule the pitch! ⚽🏅",
+    "size": 900,
+    "reviews": 58000000,
+    "ratingAvg": 4.2,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 1200000 },
+      { "name": "3 star", "count": 1900000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 48000000 }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Pokémon Unite",
+    "companyName": "TiMi Studio Group",
+    "image": "https://i.ibb.co.com/Q7Z8K8yR/Pok-mon-Unite.webp",
+    "description": "Pokémon Unite by The Pokémon Company and TiMi Studios is a 5v5 multiplayer online battle arena (MOBA) game where strategy and teamwork decide victory. Choose your favorite Pokémon, level up, evolve, and unleash powerful moves to score goals and defeat your opponents. Each Pokémon has unique abilities and roles, making every battle exciting and dynamic. With quick matches, cross-platform play, and constant updates, Pokémon Unite delivers a fresh, competitive, and action-packed Pokémon experience like never before! 🌟🎮",
+    "size": 1200,
+    "reviews": 18000000,
+    "ratingAvg": 4.3,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 180000 },
+      { "name": "2 star", "count": 320000 },
+      { "name": "3 star", "count": 720000 },
+      { "name": "4 star", "count": 2800000 },
+      { "name": "5 star", "count": 14500000 }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Dragon City",
+    "companyName": "Social Point",
+    "image": "https://i.ibb.co.com/MDDMyfBR/Dragon-City.png",
+    "description": "Dragon City by Social Point is a magical simulation and battle game where you can build your own floating city filled with dragons! Hatch eggs, breed different dragon species, and train them to become powerful warriors. Collect hundreds of unique dragons — each with distinct elements like fire, water, nature, and electric. Enter exciting battles, complete quests, and join alliances with players worldwide. With stunning graphics, special events, and endless combinations, Dragon City lets you become the ultimate Dragon Master! 🐲💫",
+    "size": 150,
+    "reviews": 29000000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 320000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2700000 },
+      { "name": "5 star", "count": 24700000 }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Hay Day",
+    "companyName": "Supercell",
+    "image": "https://i.ibb.co.com/XrNxbhWP/Hay-Day.png",
+    "description": "Hay Day by Supercell is one of the most popular and relaxing farming simulation games ever made. Build your dream farm, grow crops, raise animals, and trade goods with friends and neighbors. Experience the joy of country life as you harvest wheat, milk cows, and bake delicious bread. Decorate your farm, expand your land, and run your own roadside shop! With charming visuals, smooth gameplay, and endless activities, Hay Day brings peaceful farming fun to players of all ages. 🌻🚜",
+    "size": 160,
+    "reviews": 38000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 320000 },
+      { "name": "2 star", "count": 420000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2900000 },
+      { "name": "5 star", "count": 33500000 }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Gardenscapes",
+    "companyName": "Playrix",
+    "image": "https://i.ibb.co.com/HD4GpPnY/Gardenscapes.jpg",
+    "description": "Gardenscapes by Playrix is a relaxing and creative match-3 puzzle and simulation game that lets you restore a beautiful garden to its former glory! Solve fun puzzles, earn stars, and unlock new areas full of surprises. Decorate your garden with fountains, flowers, and benches while meeting charming characters like Austin the butler and his adorable pet dog. With hundreds of levels, vibrant visuals, and engaging storylines, Gardenscapes combines creativity, strategy, and fun in one delightful experience! 🌺🎮",
+    "size": 280,
+    "reviews": 24000000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 180000 },
+      { "name": "2 star", "count": 320000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2600000 },
+      { "name": "5 star", "count": 20500000 }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Hill Climb Racing",
+    "companyName": "Fingersoft",
+    "image": "https://i.ibb.co.com/xS515s9y/Hill-Climb-Racing.jpg",
+    "description": "Hill Climb Racing by Fingersoft is one of the most addictive and fun physics-based driving games ever made! Take control of Newton Bill, a young aspiring uphill racer, and drive through challenging terrains like hills, deserts, caves, and even the moon! Upgrade your vehicles, collect coins, and try to go as far as possible without flipping over. With endless levels, funny physics, and a variety of vehicles to unlock, Hill Climb Racing delivers endless excitement and laughter for players of all ages! 🏎️💥",
+    "size": 100,
+    "reviews": 42000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 280000 },
+      { "name": "2 star", "count": 410000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 3300000 },
+      { "name": "5 star", "count": 37000000 }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Toca Life World",
+    "companyName": "Toca Boca",
+    "image": "https://i.ibb.co.com/yB8HkkzW/Toca-Life-World.png",
+    "description": "Toca Life World by Toca Boca is a fun, creative, and imaginative game where you can build your own world and tell unique stories your way! Design characters, decorate homes, and explore exciting places like cities, hospitals, schools, and salons. Combine all Toca Life games in one big universe and let your imagination run wild! With hundreds of locations, adorable characters, and tons of customization options, Toca Life World gives you the freedom to play, create, and explore without limits. 🎨🌍",
+    "size": 800,
+    "reviews": 67000000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 480000 },
+      { "name": "2 star", "count": 680000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 4800000 },
+      { "name": "5 star", "count": 59000000 }
+    ]
+  }
+]
