@@ -9,11 +9,11 @@ import Footer from "../component/Footer/Footer";
 export default function Root() {
   return (
     <div className="min-h-screen flex flex-col bg-gray-50">
-      <Navbar />
+      <Navbar></Navbar>
       <main className="flex-1">
-        <Outlet />
+        <Outlet></Outlet>
       </main>
-      <Footer />
+      <Footer></Footer>
     </div>
   );
 }
