@@ -1,4 +1,4 @@
-// src/context/InstallContext.jsx
+
 import { createContext, useContext, useMemo } from "react";
 import useLocalStorage from "../hooks/useLocalStorage";
 

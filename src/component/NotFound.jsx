@@ -1,4 +1,4 @@
-// src/component/NotFound.jsx
+
 import React from "react";
 
 export default function NotFound({ title, subtitle, onBack }) {

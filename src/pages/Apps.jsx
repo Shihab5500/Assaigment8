@@ -4,7 +4,6 @@ import useAppsData from "../hooks/useAppsData";
 import AppCard from "../component/AppCard";
 import NotFound from "../component/NotFound";
 
-// ঐচ্ছিক Loader কম্পোনেন্ট (যদি আলাদা Loader.jsx না থাকে)
 const Loader = ({ label = "Loading..." }) => (
   <div className="flex items-center justify-center py-10">
     <div className="inline-flex items-center gap-3">
@@ -19,7 +18,7 @@ export default function Apps() {
   const [query, setQuery] = useState("");
   const [searchLoading, setSearchLoading] = useState(false);
 
-  // 🔹 ডিবাউন্স করা সার্চ ইফেক্ট
+ 
   useEffect(() => {
     if (!query.trim()) {
       setSearchLoading(false);
@@ -30,7 +29,7 @@ export default function Apps() {
     return () => clearTimeout(t);
   }, [query]);
 
-  // 🔹 কেস ইনসেনসিটিভ ফিল্টার
+  //  কেস ইনসেনসিটিভ ফিল্টার
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
     if (!q) return apps;

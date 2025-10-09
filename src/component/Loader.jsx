@@ -1,4 +1,4 @@
-// src/component/Loader.jsx
+
 export default function Loader({ label = "Loading..." }) {
   return (
     <div className="flex items-center justify-center py-12">

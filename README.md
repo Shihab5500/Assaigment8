@@ -8,6 +8,7 @@ Users can search, view details, install or uninstall apps dynamically.
 - React Router DOM
 - Tailwind CSS
 - Recharts
+- Javascript
 - Netlify (Deployment)
 
 ## 📖 Description
