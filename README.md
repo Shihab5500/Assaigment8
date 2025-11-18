@@ -13,8 +13,9 @@ Users can search, view details, install or uninstall apps dynamically.
 
 ## 📖 Description
 This app is built for assignment purposes to demonstrate SPA routing,  
-local storage integration, dynamic app installation, and responsive design.
+local storage integration, dynamic app installation, and responsive design.   <br><br>
 
+🚀 লোকাল রান গাইডলাইন (How to Run Locally <br>
 
 git clone YOUR_REPOSITORY_LINK <br>
 cd YOUR_PROJECT_FOLDER_NAME<br>
