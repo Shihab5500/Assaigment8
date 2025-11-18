@@ -17,6 +17,9 @@ local storage integration, dynamic app installation, and responsive design.   <b
 
 🚀 লোকাল রান গাইডলাইন (How to Run Locally <br>
 
+
+Create a new folder on your system in the location where you want to store the project (e.g. My-Projects). Then open that folder in VS Code. 
+
 git clone YOUR_REPOSITORY_LINK <br>
 cd YOUR_PROJECT_FOLDER_NAME<br>
 npm run dev
