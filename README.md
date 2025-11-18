@@ -16,6 +16,6 @@ This app is built for assignment purposes to demonstrate SPA routing,
 local storage integration, dynamic app installation, and responsive design.
 
 
-git clone YOUR_REPOSITORY_LINK
-cd YOUR_PROJECT_FOLDER_NAME
+git clone YOUR_REPOSITORY_LINK <br>
+cd YOUR_PROJECT_FOLDER_NAME<br>
 npm run dev
