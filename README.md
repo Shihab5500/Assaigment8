@@ -15,6 +15,9 @@ Users can search, view details, install or uninstall apps dynamically.
 This app is built for assignment purposes to demonstrate SPA routing,  
 local storage integration, dynamic app installation, and responsive design.   <br><br>
 
+
+Live Link: https://shihab-heroio-apps.netlify.app/
+
 🚀 লোকাল রান গাইডলাইন (How to Run Locally <br>
 
 
